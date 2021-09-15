@@ -1,9 +1,4 @@
-# vue-rss-espn
-
-## Project overview
-I built this project to learn Vue development.<br/>
-It accesses the ESPN NFL RSS feeds using a proxy 
-to translate xml to json.
+# visual-news
 
 ## Project setup
 ```
